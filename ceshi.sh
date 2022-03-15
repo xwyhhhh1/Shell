@@ -25,3 +25,4 @@ check () {
 profile
 install
 check
+echo "Install Success!"
